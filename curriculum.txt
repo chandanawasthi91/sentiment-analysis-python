@@ -1,0 +1,63 @@
+Anaconda navigator , spyder ,jupiter, execute py file thru cmd and spyder
+
+1) Python installation on local system (2.7x and 3.5x)
+2) Python anaconda installation 
+3) Issues with installation -- 1 video 
+4) Python upgradation 
+
+1) Python objects and data structure - Variable assignment  
+2) Python objects and data structure - String  
+3) Python objects and data structure - Lists
+4) Python objects and data structure - Tuples
+5) Python objects and data structure - Dictionary
+6) Python objects and data structure - Sets and Boolean -- 2 videos
+
+1) Python comparison operators 
+2) Python chained comparison operators -- 1 video
+
+1) Python Opps concepts -- (3 videos)
+
+1) Python statements: if, else statements
+2) Python statements: for loop, while loop
+3) Python statements: break, continue, pass  -- 2 videos
+
+1) Python Pandas - 10 videos
+2) Python Numpy -2 videos
+3) Python Matplotlib , Seaborn
+
+
+1) Python Methods and functions 
+2) Python lambda , map filter
+3) Python *args and **kwargs 
+4) Python Modules and packages -- 2 videos
+
+0)Python SQLLite
+1) Python with Oracle
+2) Python with Redshift
+3) Python with MYSQL
+4) Python with S3
+
+
+
+1) Python Exception handling -- 1 video
+
+1) Python Miscellaneous - 3 videos
+
+SQL Basic advance -15-20 (<10 min)
+
+Unix -15
+
+Python Natural language processing
+
+Python Download :- https://www.python.org/downloads/release/python-381/
+Anaconda Download :- https://www.anaconda.com/distribution/
+
+https://www.youtube.com/watch?v=yaZsp18ZacI
+https://www.youtube.com/watch?v=IehbF5z5c_Q
+
+For Business Query write to :- code.shots11@gmail.com
+
+Can a non It Guy Learn Python 
+Can a non It Guy learn Machine learning
+Can a non It Guy learn AI
+Will learning ML and AI help my career
